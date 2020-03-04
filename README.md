@@ -1,1 +1,3 @@
-# curso-javascript-ninja
+# Exercícios do curso javascript ninja
+
+Exercício 1
