@@ -1,3 +1,3 @@
 # Exercícios do curso javascript ninja
 
-Exercício 1
+Controle de estudos do curso da Udemy
